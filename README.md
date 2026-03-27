@@ -5,7 +5,7 @@
   <h3>Project Demo Video</h3>
   <video src="video/Demo.mp4" width="800" controls></video>
 </div>
-[Watch the Demo Video](video/Demo.mp4)
+[Watch the Demo Video]([video/Demo.mp4](https://github.com/mehrnazhi/Data-Jobs-Analysis-Dashboard/blob/main/video/Demo.mp4))
 
 
 ## Introduction
